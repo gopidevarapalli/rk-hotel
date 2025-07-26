@@ -90,7 +90,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
 
                     {/* About Us */}
                     <div>
-                        <h3 className="text-xl font-semibold text-primary mb-3">About Hotel D'Lodge</h3>
+                        <h3 className="text-xl font-semibold text-primary mb-3">About Hotel RK</h3>
                         <p className="text-sm">
                             Experience comfort and authentic local flavors at RK Lodge & Restaurant.
                             Nestled conveniently near the Malkapur Bus Stand, we offer a perfect blend of hospitality and convenience.

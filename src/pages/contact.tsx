@@ -18,7 +18,7 @@ const Contact: React.FC = () => {
             <section className="bg-white rounded-lg shadow-xl p-6 md-p-10">
                 <h1 className="text-4xl font-bold text-darkblue mb-6 text-center">Get in Touch With Us</h1>
                 <p className="text-lg text-gray-700 mb-8 text-center max-w-4xl mx-auto leading-relaxed">
-                    We'd love to hear from you! Whether you have questions about bookings, dining, or any other inquiry, feel free to reach out to us.
+                    We had love to hear from you! Whether you have questions about bookings, dining, or any other inquiry, feel free to reach out to us.
                 </p>
 
                 <div className="grid grid-cols-1 md-grid-cols-2 gap-10 mb-12">
