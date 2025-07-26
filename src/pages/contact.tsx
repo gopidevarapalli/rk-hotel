@@ -73,7 +73,7 @@ const Contact: React.FC = () => {
                                 <textarea
                                     id="message"
                                     name="message"
-                                    rows="5"
+                                    rows={5}
                                     className="shadow appearance-none border rounded-md w-full py-2 px-3 text-gray-700 leading-tight focus-outline-none focus-ring-2 focus-ring-primary"
                                     placeholder="Your message..."
                                 ></textarea>
